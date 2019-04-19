@@ -2,4 +2,4 @@
 Flask web app
 
 
-![alt text](https://raw.githubusercontent.com/Rickyc14/Flask_xyz/flask_app.png)
+<img src="/flask_app.png" />
